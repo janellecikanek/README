@@ -34,11 +34,11 @@ function init() {
     <h2>Table of Contents</h2>
     
      <a href="#tableInstallation">Installation</a><br></br>
- <a href=".tableUsage">Usage</a><br></br>
-      <a href="tableContributing">Contributing</a><br></br>
-     <a href="tableLicense">License</a><br></br>
-      <a href="tableTests">Tests</a><br></br>
-      <a href="tableQuestions">Questions</a><br></br>
+     <a href="#tableUsage">Usage</a><br></br>
+     <a href="#tableContributing">Contributing</a><br></br>
+     <a href="#tableLicense">License</a><br></br>
+     <a href="#tableTests">Tests</a><br></br>
+     <a href="#tableQuestions">Questions</a><br></br>
     
 
     <h2 id=tableInstallation>Installation</h2>
