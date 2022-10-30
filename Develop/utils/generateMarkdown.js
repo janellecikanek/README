@@ -21,7 +21,28 @@ if (answers.license === 'BSD 3-Clause "New" or "Revised" License') {
   licenseBadge =`## License
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`;
     return licenseBadge;
-} if (answers.license === 'None') {
+}
+if (answers.license === 'GNU Affero General Public License v3.0') {
+  licenseBadge =`## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`;
+    return licenseBadge;
+} 
+if (answers.license === 'GNU General Public License v2.0') {
+  licenseBadge =`## License
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)`;
+    return licenseBadge;
+} 
+if (answers.license === 'Mozilla Public License 2.0') {
+  licenseBadge =`## License
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`;
+    return licenseBadge;
+} 
+if (answers.license === 'Creative Commons Zero v1.0 Universal') {
+  licenseBadge =`## License
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)`;
+    return licenseBadge;
+} 
+if (answers.license === 'None') {
   return licenseBadge;
 }
 }
@@ -41,19 +62,28 @@ function renderLicenseSection(answers) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.title}
+  return `# ${answers.title} ${renderLicenseBadge(answers)}
 ## Description
 ${answers.description}
 
 ## Table of Contents
-* [Installation](#installation)
-${renderLicenseSection(answers)}
 
+* [Installation](#installation)
+* [Usage](#Usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Tests](#tests)
+* [Questions](#questions)
+
+${renderLicenseSection(answers)}
 ## Installation
 ${answers.installation}
 
 ## Usage
 ${answers.usage}
+
+## License
+${renderLicenseBadge(answers)}
 
 ## Contributors
 ${answers.contributing}
@@ -61,12 +91,13 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 
-${renderLicenseBadge(answers)}
-
 ## Questions
-${answers.userName}
-${answers.link}
-${answers.email}
+${answers.userName}  
+
+${answers.link}  
+
+Please contact me at ${answers.email} with any additional questions. 
+
 `;
 }
 
