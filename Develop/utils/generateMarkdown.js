@@ -69,7 +69,7 @@ ${answers.description}
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#Usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
 * [Tests](#tests)

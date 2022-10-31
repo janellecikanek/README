@@ -1,12 +1,11 @@
-# ajkdjal; ## License
-[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+# d [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-adk;j;akdl
+d
 
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#Usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
 * [Tests](#tests)
@@ -14,25 +13,24 @@ adk;j;akdl
 
 * [License](#license)
 ## Installation
-ajd;akldljd'
+d
 
 ## Usage
-a;kdjkfajdksl;jfakl'
+d
 
 ## License
-## License
-[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributors
-kadjkl;jdkljflkjlkj
+d
 
 ## Tests
-kajkdljkljiojei
+dd
 
 ## Questions
-hjhjklh;ahodj  
+d  
 
-ka;klejrhher'h  
+d  
 
-Please contact me at akehjdklajreiohjeowih with any additional questions. 
+Please contact me at d with any additional questions. 
 
