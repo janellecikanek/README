@@ -1,7 +1,8 @@
-# f [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+# README Generator ## License
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
 
 ## Description
-fdhgf
+Making READMEs easier to create.
 
 ## Table of Contents
 
@@ -14,24 +15,25 @@ fdhgf
 
 * [License](#license)
 ## Installation
-fghfhd
+Java Script and Inquirer are needed.
 
 ## Usage
-hdfghd
+https://drive.google.com/file/d/1f4NHQsDzTyX5wV8DWiUWj2Jj-J_NzYMx/view
 
 ## License
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contributors
-dghdgf
+No other collaborators at this time. 
 
 ## Tests
-dghdghxd
+No tests at this time. 
 
 ## Questions
-My GitHub username is gdhfh.
+My GitHub username is janellecikanek.
 
-My GitHub link is dhgdgh.  
+My GitHub link is github.com/janellecikanek.  
 
-Please contact me at dghd with any additional questions. 
+Please contact me at janellecikanek@gmail.com with any additional questions. 
 
