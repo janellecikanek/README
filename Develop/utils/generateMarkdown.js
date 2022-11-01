@@ -62,7 +62,8 @@ function renderLicenseSection(answers) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.title} ${renderLicenseBadge(answers)}
+  return `# ${answers.title} ${renderLicenseBadge(answers)}  
+
 ## Description
 ${answers.description}
 
@@ -92,9 +93,9 @@ ${answers.contributing}
 ${answers.tests}
 
 ## Questions
-${answers.userName}  
+My GitHub username is ${answers.userName}.
 
-${answers.link}  
+My GitHub link is ${answers.link}.  
 
 Please contact me at ${answers.email} with any additional questions. 
 
